@@ -1,7 +1,7 @@
 How to install and run this project
 
 1. git clone https://github.com/skarakash/react-redux-playground.git
-2. cd ReactJS-Redux-TodoApp
+2. cd react-redux-playground
 3. npm i
 4. npm start
 5. when local server starts navigate to http://localhost:8080/ in your browser
