@@ -4,10 +4,6 @@ import { connect } from 'react-redux';
 import { getSportNews } from '../actions/sportNewsActions';
 
 class HomePage extends Component {
-    // componentWillMount(){
-    //     let { get_news, sportNews } = this.props;
-    //     get_news()
-    // }
     render(){
         let { get_news, sportNews } = this.props;
         return (
