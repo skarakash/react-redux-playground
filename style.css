@@ -1,0 +1,28 @@
+.users__nav-button {
+    margin-right: 50px;
+}
+
+.table {
+    margin-bottom: 50px;
+}
+
+.get_users {
+    margin-right: 50px;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+.news_list, .add_news, .search{
+    margin-bottom: 50px;
+}
+
+.delete_news, .edit_news {
+    margin-right: 50px;
+}
+
+.back{ 
+    display: block;
+    width: 60px;
+}
